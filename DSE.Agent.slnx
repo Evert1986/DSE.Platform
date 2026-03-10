@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DSE.Agent/DSE.Agent.csproj" />
+  <Project Path="DSE.Desktop/DSE.Desktop.csproj" />
+  <Project Path="DSE.Updater/DSE.Updater.csproj" />
+</Solution>
