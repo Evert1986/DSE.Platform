@@ -9,10 +9,10 @@
 		<AssemblyName>DSE.Updater</AssemblyName>
 		<RootNamespace>DSE.Updater</RootNamespace>
 
-		<Version>1.0.2</Version>
-		<AssemblyVersion>1.0.2.0</AssemblyVersion>
-		<FileVersion>1.0.2.0</FileVersion>
-		<InformationalVersion>1.0.2</InformationalVersion>
+		<Version>1.0.3</Version>
+		<AssemblyVersion>1.0.3.0</AssemblyVersion>
+		<FileVersion>1.0.3.0</FileVersion>
+		<InformationalVersion>1.0.3</InformationalVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
