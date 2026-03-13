@@ -1,0 +1,15 @@
+{
+  "product": "DSE Platform",
+  "version": "1.0.1",
+  "channel": "stable",
+  "files": [
+    {
+      "name": "DSE.Agent.zip",
+      "target": "Agent"
+    },
+    {
+      "name": "DSE.Desktop.zip",
+      "target": "Desktop"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Text="DSE Control Panel"
+        <TextBlock Text="DSE Control Panel "
                    FontSize="24"
                    FontWeight="Bold"
                    Margin="0,0,0,20"/>
